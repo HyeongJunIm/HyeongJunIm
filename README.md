@@ -1,9 +1,10 @@
+<!--
 <div align=center>
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeongJunIm&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 	
 </div>
-
+-->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=WELCOME&fontSize=90" width="100%"/>
@@ -28,15 +29,14 @@
 
 #  About Me 
 
-<a href="https://stitch-alto-f83.notion.site/05fc3b199a824b3d8661eca0fed17c80?pvs=4">
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=ffffff" width="100px" height="30px"/></a>
 
 </div>
 # GitHub Stats
 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noheuijin&layout=compact&theme=ocean_dark&langs_count=12)](https://github.com/anuraghazra/github-readme-stats) <br>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noheuijin&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats) -->
+![HyeongJunIm's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeongJunIm&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeongJunIm&layout=compact&theme=ocean_dark&langs_count=12)](https://github.com/anuraghazra/github-readme-stats) <br>
+
 
 
 <div align="right">
