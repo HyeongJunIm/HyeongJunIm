@@ -76,18 +76,24 @@
     </div>
 </div>
 
-## 프로젝트
+## 🖥️프로젝트
 ### daEatdak 
 - 
 - 
 
 ### BomoBomo
--
--
+- SpringBoot-MyBatis-Project로 베이비시터 매칭 플랫폼, 아이들을 위한 이벤트 서비스 제공 플랫폼
+- IDE : IntelliJ IDEA
+- Framework : Springboot(3.x), MyBatis
+- Database : Oracle DB(11xe) 
 
 ### 산책갈개
--
--
+- SpringBoot-JPA-Project로 강아지 산책 소셜메이트, 쇼핑 플랫폼
+- IDE : IntelliJ IDEA
+- Framework : Springboot(3.x)
+- Database : Oracle DB(11xe)
+- ORM : JPA
+
 
 
 
