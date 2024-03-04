@@ -77,9 +77,6 @@
 </div>
 
 ## 🖥️프로젝트
-### daEatdak 
-- 
-- 
 
 ### BomoBomo
 - SpringBoot-MyBatis-Project로 베이비시터 매칭 플랫폼, 아이들을 위한 이벤트 서비스 제공 플랫폼
