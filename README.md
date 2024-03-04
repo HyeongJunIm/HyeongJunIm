@@ -1,63 +1,77 @@
-<!--
-<div align=center>
-	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeongJunIm&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-	
+
+<h1>👋 개발에 끊임없이 고민하고 발전하기 위해 노력하는 
+	<br/>
+	주니어 개발자 임형준입니다.</h1>
+
+## 주요 특징
+- 🚀 항상 도전하는 자세와 성장을 위한 열망
+- 🤝 효과적인 팀 협업 및 커뮤니케이 능력
+
+
+## 🔨 Stack
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <!-- 벡엔드 -->
+    <p><strong>백엔드</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+        <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=JSP&logoColor=white"> 
+        <img src="https://img.shields.io/badge/MyBatis-007396?style=for-the-badge&logo=MyBatis&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
+        <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=JPA&logoColor=white">
+    </div>
+    <br>
+    <!-- 데이타베이스 -->
+    <p><strong>데이터베이스</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+        <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+    </div>
+    <br>
+    <!-- 프론트엔드 -->
+    <p><strong>프론트엔드</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+        <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+        <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
+        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+        <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+        <img src="https://img.shields.io/badge/quasar-050A14?style=flat-square&logo=quasar&logoColor=white">
+    </div>
+    <br>
+  <!--버전 관리-->
+    <p><strong>버전 관리</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
+        <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=sourcetree&logoColor=white">
+    </div>
+    <br>
+      <!--개발 환경-->
+    <p><strong>개발 환경</strong></p>
+    <div>
+         <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white">
+         <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+         <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white">
+         <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white">
+    </div>
+    <br>
+    <!-- 기타-->
+    <p><strong>기타</strong></p>
+    <div>
+         <img src="https://img.shields.io/badge/JSON-7F52FF?style=flat-square&logo=JSON&logoColor=white">
+         <img src="https://img.shields.io/badge/Ajax-7F52FF?style=flat-square&logo=Ajax&logoColor=white">
+    </div>
+    <br>
+    <!-- 현재 공부중 및 공부 예 -->
+    <p><strong>현재 공부중 (2024.02~)</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
+    </div>
+    <br>
+    <p><strong>공부 예정(2024.03 중순~)</strong></p>
+    <div>
+         <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white">
+<!--          <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white">  -->
+    </div>
 </div>
--->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=WELCOME&fontSize=90" width="100%"/>
-
-#  Tech Stack 
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![SpringBoot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=SpringBoot&logoColor=white)&nbsp;
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)&nbsp;
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-
-
-#  About Me 
-
-
-</div>
-# GitHub Stats
-
-  
-![HyeongJunIm's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeongJunIm&theme=ocean_dark&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp; 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeongJunIm&layout=compact&theme=ocean_dark&langs_count=12)](https://github.com/anuraghazra/github-readme-stats) <br>
-
-
-
-<div align="right">
-  
-[![](https://visitcount.itsvg.in/api?id=CJH0120&icon=7&color=6)](https://visitcount.itsvg.in)
-   
-</div>
-
-
-
-<!--
-**HyeongJunIm/HyeongJunIm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
