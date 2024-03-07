@@ -78,6 +78,12 @@
 
 ## 🖥️프로젝트
 
+### DaEatdat
+- SpringBoot-MyBatis-Project로 베이비시터 매칭 플랫폼, 아이들을 위한 이벤트 서비스 제공 플랫폼
+- IDE : IntelliJ IDEA
+- Framework : Springboot(3.x), MyBatis
+- Database : Oracle DB(11xe)  
+
 ### BomoBomo
 - SpringBoot-MyBatis-Project로 베이비시터 매칭 플랫폼, 아이들을 위한 이벤트 서비스 제공 플랫폼
 - IDE : IntelliJ IDEA
