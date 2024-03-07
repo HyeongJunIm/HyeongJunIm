@@ -79,7 +79,7 @@
 ## 🖥️프로젝트
 
 ### DaEatdat
-- 
+- JSP - MyBatis 프로젝트 다이어트 식품 쇼핑몰
 - IDE : Eclipse
 - Library : MyBatis
 - Database : Oracle DB(11xe)
