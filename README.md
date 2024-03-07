@@ -82,7 +82,7 @@
 - JSP - MyBatis 프로젝트 다이어트 식품 쇼핑몰
 - IDE : Eclipse
 - Library : MyBatis
-- Database : Oracle DB(11xe)
+- Database : Mysql
 
 ### BomoBomo
 - SpringBoot-MyBatis-Project로 베이비시터 매칭 플랫폼, 아이들을 위한 이벤트 서비스 제공 플랫폼
