@@ -37,6 +37,7 @@
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
         <img src="https://img.shields.io/badge/quasar-050A14?style=flat-square&logo=quasar&logoColor=white">
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
     </div>
     <br>
   <!--버전 관리-->
@@ -64,16 +65,13 @@
     </div>
     <br>
     <!-- 현재 공부중 및 공부 예 -->
-    <p><strong>현재 공부중 (2024.02~)</strong></p>
+    <p><strong>현재 공부중 (2024.03~)</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
+       <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon aws&logoColor=white">
+	<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white">
     </div>
     <br>
-    <p><strong>공부 예정(2024.03 중순~)</strong></p>
-    <div>
-         <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white">
-<!--          <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white">  -->
-    </div>
+  
 </div>
 
 ## 🖥️프로젝트
