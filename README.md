@@ -95,6 +95,12 @@
 - Database : Oracle DB(11xe)
 - ORM : JPA
 
+### Vue3 커뮤니티 개인 프로젝트 
+- Vue3 커뮤니티 페이지
+- Vue3
+- Firebase
+- quasar
+
 
 
 
