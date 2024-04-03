@@ -64,13 +64,13 @@
          <img src="https://img.shields.io/badge/Ajax-7F52FF?style=flat-square&logo=Ajax&logoColor=white">
     </div>
     <br>
-    <!-- 현재 공부중 및 공부 예 -->
-    <p><strong>현재 공부중 (2024.03~)</strong></p>
-    <div>
-       <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon aws&logoColor=white">
-	<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white">
-    </div>
-    <br>
+   
+
+    
+<!-- 	<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"> -->
+   <!--공부 정리 중인 노션 -->
+   ## 📖저는 개발공부 중입니다!!<a href="https://www.notion.so/Jun-3de7b4b0fc254ae1a69e0ca606570c19">노션으로이동</a>
+   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon aws&logoColor=white">
   
 </div>
 
@@ -101,8 +101,12 @@
 - Firebase
 - quasar
 
-
-
+### Amazon 파일 이미지 구현 <a href="">이동하기</a>
+- Amazon EC2, RDS, ELB, S3 연동
+- IDE : IntelliJ IDEA
+- Framework : Springboot(3.x)
+- Database : Oracle DB(11xe)
+- ORM : JPA
 
 
 
