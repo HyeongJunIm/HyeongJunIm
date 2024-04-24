@@ -71,7 +71,7 @@
    <!--공부 정리 중인 노션 -->
    ## 📖저는 개발공부 중입니다!!<a href="https://www.notion.so/Jun-3de7b4b0fc254ae1a69e0ca606570c19">노션으로이동</a>
    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon aws&logoColor=white">
-  
+   <img src="https://img.shields.io/badge/Microservice MSA-232F3E?style=flat-square&logo=MSA &logoColor=white">
 </div>
 
 ## 🖥️프로젝트
